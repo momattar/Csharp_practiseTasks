@@ -1,0 +1,29 @@
+﻿Lecturer's Task
+
+1- Write a function that takes two integers as input and returns their sum.
+
+2- Write a function that calculates the factorial of a number using a loop. Ensure that the function handles negative inputs by returning an appropriate message.
+
+3- Create a function that takes an array of integers and returns the largest number in the array. Ensure that the function handles empty arrays gracefully.
+
+4- Write a function that takes two strings as input and returns true if one string is a permutation of the other. Consider edge cases like different lengths and empty strings.
+
+5- Implement a function that returns the n-th Fibonacci number using recursion. Ensure that your solution is efficient for large values of n.
+
+6- Write a recursive function that prints the numbers from 1 to n.
+
+7- Create a recursive function to calculate the sum of all elements in an array of integers.
+
+ 8- 
+Define a struct named Employee with properties like ID, Name, Age, Position, and Salary.
+Add a method to the struct that prints the employee's details in a formatted manner.
+Create instances of the Employee struct, initialize them with data, and use the method to print the employee details.
+
+9-
+Extend the Employee struct by adding a method to give a salary raise by a certain percentage.
+Create instances of the Employee struct and use the method to increase the salary of an employee.
+
+10-
+Create an array called employees of type Employee of size 5.
+Fill the array by asking the user for each employee's data.
+Print the total salaries, min salary, max salary, and count of salaries greater than 15000.
