@@ -1,0 +1,28 @@
+D:\c#\t2\t2\bin\Debug\net8.0\t2.exe
+D:\c#\t2\t2\bin\Debug\net8.0\t2.deps.json
+D:\c#\t2\t2\bin\Debug\net8.0\t2.runtimeconfig.json
+D:\c#\t2\t2\bin\Debug\net8.0\t2.dll
+D:\c#\t2\t2\bin\Debug\net8.0\t2.pdb
+D:\c#\t2\t2\obj\Debug\net8.0\t2.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\t2\t2\obj\Debug\net8.0\t2.AssemblyInfoInputs.cache
+D:\c#\t2\t2\obj\Debug\net8.0\t2.AssemblyInfo.cs
+D:\c#\t2\t2\obj\Debug\net8.0\t2.csproj.CoreCompileInputs.cache
+D:\c#\t2\t2\obj\Debug\net8.0\t2.dll
+D:\c#\t2\t2\obj\Debug\net8.0\refint\t2.dll
+D:\c#\t2\t2\obj\Debug\net8.0\t2.pdb
+D:\c#\t2\t2\obj\Debug\net8.0\t2.genruntimeconfig.cache
+D:\c#\t2\t2\obj\Debug\net8.0\ref\t2.dll
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\bin\Debug\net8.0\t2.exe
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\bin\Debug\net8.0\t2.deps.json
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\bin\Debug\net8.0\t2.runtimeconfig.json
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\bin\Debug\net8.0\t2.dll
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\bin\Debug\net8.0\t2.pdb
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.GeneratedMSBuildEditorConfig.editorconfig
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.AssemblyInfoInputs.cache
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.AssemblyInfo.cs
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.csproj.CoreCompileInputs.cache
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.dll
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\refint\t2.dll
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.pdb
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\t2.genruntimeconfig.cache
+D:\#ZEX\C# DEPI Tasks\t2\Task 2\obj\Debug\net8.0\ref\t2.dll
